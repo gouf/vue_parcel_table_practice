@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ID",
+    "filterType": "number",
+    "relatedWith": "employee.id",
+    "choises": []
+  },
+  {
+    "name": "姓",
+    "filterType": "text",
+    "relatedWith": "employee.lastName",
+    "choises": []
+  },
+  {
+    "name": "名",
+    "filterType": "text",
+    "relatedWith": "employee.firstName",
+    "choises": []
+  },
+  {
+    "name": "性別",
+    "filterType": "radioButton",
+    "relatedWith": "employee.gender",
+    "choises": ["男", "女", "その他"]
+  }
+]
+
