@@ -1,10 +1,17 @@
 <template>
   <div>
-    <h1>Hello, Vue + Parcel</h1>
+    <Hello>Vue + Parcel</Hello>
   </div>
 </template>
 
 <script>
+import Hello from './components/Hello.vue'
+
+export default {
+  components: {
+    Hello
+  }
+}
 </script>
 
 <style scoped>
