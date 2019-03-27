@@ -1,0 +1,10 @@
+{
+  "name": "vue_parcel_table_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gouf <innocent.zero@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
